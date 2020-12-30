@@ -1,16 +1,36 @@
-### Hi there 👋
+Black
+==============
 
-<!--
-**X-RaVENX/X-RaVENX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+______________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+Installation
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+install :
+
+``` git clone https://github.com/BLACKBOTSS/BLACKBOTSS && cd BLACKBOTSS && chmod +x install.sh && ./install.sh ```
+
+______________________________________________________________________________________________________________________
+
+When the installation is completed,
+
+The first thing
+========
+------
+**Type the Token and press Enter**
+______________________________________________________________________________________________________________________
+
+The second thing
+========
+------
+**Type the Sudo Username and press Enter**
+
+______________________________________________________________________________________________________________________
+
+
+Run bot
+========
+------
+```./BLACKBOTSS/ts```
+
+______________________________________________________________________________________________________________________
