@@ -7790,14 +7790,14 @@ send(msg.chat_id_,msg.id_,'- شترك في قناة البوت اولآ [ @raven
 return false 
 end
 Text = [[
-*- Black Team .*
+*- Raven Team . .*
  — — — — — — — — — 
      
-[⌔︙ RaVEN 𝖲𝗈𝗎𝗋𝖼𝖾  .](http://t.me/raven_n)
+[• Raven Source .](http://t.me/raven_n)
      
-[⌔︙ ToolS RaVEN .](https://t.me/raven_n)
+[• Tools Raven .](https://t.me/raven_n)
      
-[⌔︙ 𝖳WSL Source RaVEN .](http://t.me/UBBBBD)
+[• Twsl Source Raven .](http://t.me/UBBBBD)
      
 ]]
 send(msg.chat_id_, msg.id_,Text)
